@@ -1,0 +1,43 @@
+div{
+    display: inline-block
+}
+
+
+
+#box1{
+
+
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+    border: brown;
+}
+#box2{
+    height: 100px;
+    width: 100px;
+     background-color: red;
+     border: brown;
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
+    border: brown;
+}
+#box1{
+    background-image: url("anand patel.jpg");
+    background-size: cover;
+}
+#box5{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+
+
